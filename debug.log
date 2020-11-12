@@ -1,1 +1,8 @@
 [1109/150214.298:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1111/114618.354:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1111/114618.354:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[1111/151155.039:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1111/151155.039:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[1111/215415.974:ERROR:file_io_win.cc(162)] CreateFile C:\Users\user\AppData\Local\Temp\scoped_dir11024_1319729033\Crashpad\settings.dat: Системе не удается найти указанный путь. (0x3)
+[1111/215416.614:ERROR:file_io_win.cc(171)] CreateFile C:\Users\user\AppData\Local\Temp\scoped_dir11024_1319729033\Crashpad\reports\43926fd9-c85a-4bff-8064-718b7451d02e.dmp: Системе не удается найти указанный путь. (0x3)
+[1111/215416.614:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
